@@ -2,26 +2,17 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+keitanxkeitan
+シンガポールで働くゲームプログラマー
 
-### Features:
+### 経歴:
+1. 日本の大企業でゲームプログラマーをする
+1. 世界を股にかけて仕事をしたいと思って英語を勉強する
+1. シンガポールのゲーム会社に転職する（今ここ）
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+### 連絡先:
+Twitter keitanxkeitan
+Mail keitanxkeitan@gmail.com
+
+### 当サイトが使用しているアクセス解析ツールについて
+当サイトでは、Google によるアクセス解析ツール Google Analytics を利用しています。この Google Analytics はトラフィックデータの収集のために Cookie を使用しています。 このトラフィックデータは匿名で収集されており、個人を特定するものではありません。 この機能は Cookie を無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。 この規約に関して、詳しくはこちら(https://www.google.com/analytics/terms/jp.html)をクリックしてください。
