@@ -2,7 +2,7 @@
 title: About
 ---
 
-keitanxkeitan
+#keitanxkeitan
 シンガポールで働くゲームプログラマー
 
 ### 経歴:
