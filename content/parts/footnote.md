@@ -2,4 +2,4 @@
 title: footnote
 ---
 
-&copy; keitanxkeitan 2019
+-* &copy; keitanxkeitan 2019
