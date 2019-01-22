@@ -6,12 +6,12 @@ title: About
 シンガポールで働くゲームプログラマー
 
 ### 経歴:
-1. 日本のゲーム会社でゲームプログラマーをする
-1. 世界を股にかけて仕事をしたいと思って英語を勉強する
-1. シンガポールのゲーム会社に転職する（今ここ）
+- 日本のゲーム会社でゲームプログラマーをする
+- 世界を股にかけて仕事をしたいと思って英語を勉強する
+- シンガポールのゲーム会社に転職する（今ここ）
 
 ### 連絡先:
-Twitter: keitanxkeitan
+Twitter: [keitanxkeitan](https://twitter.com/keitanxkeitan)
 
 Mail: keitanxkeitan@gmail.com
 
