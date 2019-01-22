@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import AdSense from 'react-adsense';
 
 export default class HTML extends React.Component {
   render() {
@@ -26,12 +27,11 @@ export default class HTML extends React.Component {
           <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png" />
           <link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png" />
           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({
-              google_ad_client: "ca-pub-8982995633165341",
-              enable_page_level_ads: true
-            });
-          </script>          
+          <AdSense.Google
+            client="ca-pub-8982995633165341"
+            slot="5153910610"
+            format="auto"
+          />
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
